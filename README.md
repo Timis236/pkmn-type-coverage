@@ -3,5 +3,5 @@ A quick and dirty tool for solving the Pokemon related question: what 4 move typ
 
 If you are curious about the answer by the way, it's one of:
 - Fighting Flying Ground Ice
-- Fighting Ground Ghost Ice
+- Fighting Ground Ghost Ice (no bad match-ups)
 - Fighting Ground Ice Dark
